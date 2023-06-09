@@ -123,9 +123,9 @@ button:hover{
     }
 }
 
-
 @media screen and (max-width: 637px){
     nav{
         display: none;
     }
 }
+
